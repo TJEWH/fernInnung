@@ -144,16 +144,6 @@ export default {
               "selectedOption": null,
               "correctOption": ["a"]
             },
-            {
-              "question": "Welche Rolle spielen für Sie die Arbeitsbedingungen und das Arbeitsklima in Deutschland?",
-              "options": {
-                "a": "Eine sehr wichtige Rolle, sie beeinflussen meine Zufriedenheit am Arbeitsplatz.",
-                "b": "Eine eher unwichtige Rolle, solange ich meinen Job gut machen kann.",
-                "c": "Ich bin mir unsicher."
-              },
-              "selectedOption": null,
-              "correctOption": ["a"]
-            }
           ]
         }
       ],
@@ -177,7 +167,6 @@ export default {
 </script>
 
 <style scoped>
-/* Globale Stile */
 * {
   box-sizing: border-box;
 }
